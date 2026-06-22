@@ -6,26 +6,6 @@ A beginner-first, production-realistic learning repository for **System Design**
 
 ---
 
-## How to Use This Repo
-
-Each lesson follows five layers:
-
-| Layer | What you get |
-|-------|--------------|
-| 1 — Explain Like I'm New | Analogies, one-sentence definitions, tiny examples |
-| 2 — How It Works | Proper terms, concrete flows, why teams use it |
-| 3 — Production Reality | Failures, trade-offs, what breaks at scale |
-| 4 — Interview + Design | Common questions, walkthroughs, follow-ups |
-| 5 — Hands-On | Code, SQL, config snippets (when applicable) |
-
-**Commands (in Cursor):**
-
-- `start_topic <TOPIC>` — create or extend a lesson
-- `continue_topics` — pick the next topic from the roadmap
-- `setup_repo <GITHUB_URL>` — initialize structure
-
----
-
 ## Fundamentals
 
 Core concepts every data engineer and backend engineer must internalize before designing pipelines, APIs, or distributed systems.

@@ -24,11 +24,12 @@ See [ROADMAP.md](ROADMAP.md) for the full learning path.
 
 ## Teaching Philosophy
 
-Lessons are written by a senior backend / data platform perspective:
+Lessons are written from a senior backend / data platform perspective:
 
 - Real production trade-offs (latency, consistency, failure modes)
 - Not textbook-only theory
 - Interview-ready depth without skipping the basics
+- Every lesson ends with a **conclusion** that summarizes the topic and reinforces learning the fundamentals first
 
 ---
 

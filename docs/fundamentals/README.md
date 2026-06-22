@@ -4,4 +4,5 @@ Core system design concepts that underpin every data engineering and backend arc
 
 ## Lessons
 
-1. [Core System Design Foundations](core-system-design-foundations.md) — Statelessness, Caching, CAP, Message Queues, Databases, API Design
+1. [Core System Design Foundations](core-system-design-foundations.md) — Statelessness, Caching, CAP, Message Queues, Databases, API Design  
+   → [Jump to Conclusion](core-system-design-foundations.md#conclusion)

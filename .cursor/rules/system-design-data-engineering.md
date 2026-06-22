@@ -54,7 +54,14 @@ Follow this progression for **every topic**:
 - Sample datasets.
 - Runnable snippets or pseudocode with clear inputs/outputs.
 
+## Layer 6 — "Conclusion" (REQUIRED for every lesson)
+- Summarize the whole topic in plain language — tie subtopics together.
+- Reinforce the core takeaway: why these ideas matter in production.
+- Encourage readers to **master fundamentals before jumping to complex tools** (Kafka, lakehouses, etc.).
+- End with a short, motivating note to keep learning — fundamentals compound over time.
+
 **Never skip Layer 1.** Even advanced topics must begin with a 30-second simple explanation.
+**Never skip the Conclusion.** Every lesson must end with a clear summary and encouragement.
 
 ---
 

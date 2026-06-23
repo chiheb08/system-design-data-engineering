@@ -16,6 +16,16 @@ Core concepts every data engineer and backend engineer must internalize before d
 
 ---
 
+## Data Engineering
+
+Patterns for modeling, moving, and serving analytics data reliably.
+
+| # | Topic | Lesson |
+|---|-------|--------|
+| 1 | **Data Modeling** — Fact tables, dimensions, grain, SCDs, star vs snowflake | [Read →](docs/data-engineering/data-modeling-concepts.md) |
+
+---
+
 ## Roadmap
 
 See [ROADMAP.md](ROADMAP.md) for the full learning path.

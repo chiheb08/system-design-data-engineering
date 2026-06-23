@@ -6,7 +6,7 @@ Topics are ordered so each lesson builds on the last.
 
 - [x] **Core System Design Foundations** — statelessness, caching, CAP, message queues, databases, API design
 - [ ] Scalability basics — horizontal vs vertical, load balancing, partitioning
-- [ ] Data modeling — star schema, normalization, event schemas
+- [x] **Data modeling** — fact tables, dimensions, grain, SCDs, star vs snowflake schema
 - [ ] Batch vs streaming — when to use each, lambda vs kappa
 
 ## Phase 2 — Data Engineering

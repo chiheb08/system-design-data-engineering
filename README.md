@@ -23,6 +23,7 @@ Patterns for modeling, moving, and serving analytics data reliably.
 | # | Topic | Lesson |
 |---|-------|--------|
 | 1 | **Data Modeling** — Fact tables, dimensions, grain, SCDs, star vs snowflake | [Read →](docs/data-engineering/data-modeling-concepts.md) |
+| 2 | **Apache Iceberg** — Open table format, snapshots, time travel, lakehouse ops | [Read →](docs/data-engineering/apache-iceberg.md) |
 
 ---
 

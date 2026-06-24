@@ -14,6 +14,7 @@ Topics are ordered so each lesson builds on the last.
 - [ ] ETL / ELT pipelines — orchestration, idempotency, backfill
 - [ ] Data warehouses — Snowflake, BigQuery, Redshift concepts
 - [ ] Stream processing — Kafka, Flink, Spark Streaming
+- [x] **Apache Iceberg** — open table format, snapshots, time travel, lakehouse maintenance
 - [ ] Data quality — contracts, validation, lineage, SLAs
 
 ## Phase 3 — System Design Deep Dives
@@ -21,7 +22,7 @@ Topics are ordered so each lesson builds on the last.
 - [ ] Design a metrics pipeline
 - [ ] Design a real-time analytics dashboard
 - [ ] Design a CDC (Change Data Capture) system
-- [ ] Design a data lake / lakehouse
+- [ ] Design a data lake / lakehouse — see [Apache Iceberg](docs/data-engineering/apache-iceberg.md)
 
 ## Phase 4 — Production & Interview
 

@@ -26,6 +26,7 @@ Topics are ordered so each lesson builds on the last.
 
 ## Phase 4 — Production & Interview
 
+- [x] **Production skills** — FastAPI, async, Pydantic, logging, testing for agent services
 - [ ] Observability for data systems
 - [ ] Cost optimization at scale
 - [ ] Mock system design interviews with rubrics

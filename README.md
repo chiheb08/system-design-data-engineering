@@ -27,6 +27,16 @@ Patterns for modeling, moving, and serving analytics data reliably.
 
 ---
 
+## Production Skills
+
+What it takes to ship agent APIs and backend services reliably — not just demos.
+
+| # | Topic | Lesson |
+|---|-------|--------|
+| 1 | **Production Skills** — FastAPI, async, Pydantic, logging, testing | [Read →](docs/production/production-skills.md) |
+
+---
+
 ## Roadmap
 
 See [ROADMAP.md](ROADMAP.md) for the full learning path.

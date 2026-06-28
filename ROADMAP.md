@@ -27,6 +27,7 @@ Topics are ordered so each lesson builds on the last.
 ## Phase 4 — Production & Interview
 
 - [x] **Production skills** — FastAPI, async, Pydantic, logging, testing for agent services
+- [x] **Harness in AI engineering** — agent harness, eval harness, prerequisites, glossary
 - [ ] Observability for data systems
 - [ ] Cost optimization at scale
 - [ ] Mock system design interviews with rubrics

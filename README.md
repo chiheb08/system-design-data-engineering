@@ -37,6 +37,16 @@ What it takes to ship agent APIs and backend services reliably — not just demo
 
 ---
 
+## AI Engineering
+
+How LLM agents are built, wrapped, evaluated, and operated — beyond the model itself.
+
+| # | Topic | Lesson |
+|---|-------|--------|
+| 1 | **Harness in AI** — Agent harness, eval harness, prerequisites, glossary | [Read →](docs/ai-engineering/harness-in-ai.md) |
+
+---
+
 ## Roadmap
 
 See [ROADMAP.md](ROADMAP.md) for the full learning path.

@@ -6,3 +6,5 @@ Core system design concepts that underpin every data engineering and backend arc
 
 1. [Core System Design Foundations](core-system-design-foundations.md) — Statelessness, Caching, CAP, Message Queues, Databases, API Design  
    → [Jump to Conclusion](core-system-design-foundations.md#conclusion)
+2. [Message Queues — Deep Dive](message-queues.md) — Scalability, bottlenecks, Kafka vs SQS, infrastructure, optimization  
+   → [Jump to Conclusion](message-queues.md#conclusion)

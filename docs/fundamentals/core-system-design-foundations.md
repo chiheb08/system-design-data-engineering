@@ -866,6 +866,7 @@ Keep learning. The complex stuff gets easier once the foundation is solid.
 
 Continue with [ROADMAP.md](../../ROADMAP.md):
 
+- [Message queues deep dive](message-queues.md) — scalability, bottlenecks, Kafka vs SQS, optimization
 - [Data modeling concepts](../data-engineering/data-modeling-concepts.md) — fact tables, dimensions, grain, SCDs, star vs snowflake
 - Batch vs streaming — when to use each
 - ETL / ELT pipelines — orchestration, idempotency, backfill

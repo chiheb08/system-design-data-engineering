@@ -5,6 +5,7 @@ Topics are ordered so each lesson builds on the last.
 ## Phase 1 — Foundations (you are here)
 
 - [x] **Core System Design Foundations** — statelessness, caching, CAP, message queues, databases, API design
+- [x] **Message queues deep dive** — scalability, bottlenecks, infrastructure, optimization
 - [ ] Scalability basics — horizontal vs vertical, load balancing, partitioning
 - [x] **Data modeling** — fact tables, dimensions, grain, SCDs, star vs snowflake schema
 - [ ] Batch vs streaming — when to use each, lambda vs kappa

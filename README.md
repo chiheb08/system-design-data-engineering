@@ -13,6 +13,7 @@ Core concepts every data engineer and backend engineer must internalize before d
 | # | Topic | Lesson |
 |---|-------|--------|
 | 1 | **Core Foundations** — Statelessness, Caching, CAP, Queues, Databases, API Design | [Read →](docs/fundamentals/core-system-design-foundations.md) |
+| 2 | **Message Queues** — Scalability, bottlenecks, infrastructure, optimization | [Read →](docs/fundamentals/message-queues.md) |
 
 ---
 
